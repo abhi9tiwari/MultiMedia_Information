@@ -1,0 +1,14 @@
+h1{
+    /* font-family: 'Pacifico', cursive; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: rgb(49, 48, 48);
+    padding: 2px 2px 10px 2px;
+    margin: 10px;
+}
+
+
+.headingg{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-shadow: 1px 1px 3px plum;
+}
